@@ -1,8 +1,6 @@
 # Presentación
 
 ## Estudiante: Ignacio Ardanaz
-
+Holaa, soy Ignacio Ardanaz, vivo en Almagro, me gusta el cine... y hasta ahí llegué porque no se me ocurre que poner xd
 ![mi foto](Foto.jpg)
 
-
-Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vTNHQ5dzaVFhKPd4UxLOGhZa9Ix_bDgpyIftq4gqzz7674dHmHkcH2oH9TpQ_TsghZkiSPBoUm2ftzM/pub).
